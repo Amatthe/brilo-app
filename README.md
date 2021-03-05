@@ -24,3 +24,7 @@ Soubor **index.blade.php** vypisuje do HTML/Blade šablony data získaná z cont
 
 ### storage/app/configuration.json
 Konfigurační soubor pro nastavení API.
+
+### Ostatní
+Soubor **app/Http/TestController** obsahuje historii dílčích testů. 
+Soubor **resources/views/test.blade.php** je určený pro zobrazování výsledků testů, je-li potřeba.
